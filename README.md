@@ -21,5 +21,7 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 
 <h3>My stats <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50"></h3>
 
-[![Leandra's github stats](https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Leandra's github stats](https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&theme=light&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 

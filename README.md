@@ -1,6 +1,6 @@
 # <h2> Hello World! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LeandraOliveiraS)
+<!--[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/LeandraOliveiraS)-->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
@@ -15,11 +15,13 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
 - 💬 Ask me about programming in general, I am always available to help and learn together.
+
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Leandra#1163 </a>
 
-[![Leandra's github stats](https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Leandra's github stats](https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 

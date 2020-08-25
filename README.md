@@ -18,8 +18,9 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 - 💬 Ask me about programming in general, I am always available to help and learn together.
 - 📫 How to reach me: 
    - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Leandra#1163 </a>
-
-<h3>My stats <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="50"></h3>
+   
+<br>
+</br>
 
 [![Leandra's github stats](https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

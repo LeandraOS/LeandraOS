@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
 
 My name is Leandra Oliveira ☺️, I'm 20 years old and I'm a student of Computer Science at Federal University of Campina Grande (**UFCG**) in Brazil 🇧🇷.
-I am currently coordinator of the organization *Elas@computação* and monitor the graph theory discipline. I am completely passionate about frontend development :computer::earth_americas:, graphs  :arrows_clockwise: and very interested in data analysis :bar_chart:. I love listening to music :heartbeat: :notes:, watching movies, series and sharing with my friends  :heart:.
+I am currently coordinator of the organization *Elas@computação* and monitor the graph theory discipline. I am completely passionate about frontend development :computer::earth_americas:, graphs  :arrows_clockwise: and very interested in data analysis :bar_chart:. I love listening to music :heartbeat: :notes:, watching movies, series and sharing with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />.
 
 - 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -14,7 +14,7 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-- 💬 Ask me about programming in general, I am always available to help and learn together <img height ="25" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
+- 💬 Ask me about programming in general, I am always available to help and learn together.
 
 - 📫 How to reach me: 
    

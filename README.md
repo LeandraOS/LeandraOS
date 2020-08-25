@@ -23,4 +23,3 @@ I am currently coordinator of the organization *Elas@computação* and monitor t
 
 [![Leandra's github stats](https://github-readme-stats.vercel.app/api?username=LeandraOliveiraS&hide=issues&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-:star2: From [LeandraOliveiraS](https://github.com/LeandraOliveiraS)
